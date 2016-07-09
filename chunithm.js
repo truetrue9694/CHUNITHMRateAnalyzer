@@ -238,6 +238,9 @@ var chart_list = [
     ,{ id: 122, level: 3, rate_base: 12.5, name: "少女幻葬戦慄曲　～　Necro Fantasia" }
     ,{ id: 177, level: 3, rate_base: 12.6, name: "Jimang Shot" }
     ,{ id: 196, level: 3, rate_base: 13.7, name: "FREEDOM DiVE" }
+    ,{ id: 210, level: 3, rate_base: 12.4, name: "アスノヨゾラ哨戒班" }
+    ,{ id: 251, level: 3, rate_base: 12.5, name: "Crazy ∞ nighT" }
+    ,{ id: 223, level: 3, rate_base: 13.0, name: "カミサマネジマキ" }
 ];
 
 /* latest rate */
